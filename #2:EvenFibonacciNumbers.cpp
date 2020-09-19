@@ -13,7 +13,8 @@ int main()
 {
     int t;
     cin >> t;
-    rep(i, t)
+
+    rep(_, t)
     {
         ll n;
         cin >> n;

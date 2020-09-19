@@ -13,8 +13,8 @@ int main()
 {
     int t;
     cin >> t;
-    while (t--)
 
+    while (t--)
     {
         ll n;
         cin >> n;
