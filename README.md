@@ -11,4 +11,8 @@ time limit per test : 1second maybe.....haha
 - [x] 5. Smallest multiple
 - [x] 6. Sum square difference
 - [ ] 7. 10001st prime
-- [ ] 8. Largest product in a series
+- [x] 8. Largest product in a series
+- [x] 10. Summation of primes
+- [x] 11. Largest product in a grid
+- [x] 18. Maximum path sum I
+- [x] 67. Maximum path sum II
